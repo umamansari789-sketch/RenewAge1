@@ -16485,9 +16485,9 @@ input.cart-plus-minus-box {
 }
 
     .btn:last-child {
-        margin-right: 0;
-    }
-
+           margin-right: 78px;
+    margin-bottom: 40px;
+}
 .theme-btn-1 {
     background-color: var(--ltn__secondary-color);
     color: var(--white);
